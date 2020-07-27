@@ -7,5 +7,5 @@ Used Chess as an example to introduce 76 students (Grade 6~12) on board game AI 
 Covered trees, minimax algorithms, heuristics, and machine learning (correlation).
 
 ## PDF Link
-The PDF version exceeds Github's limit of 25MB and is therefore uploaded to Google Drive.
+The PDF version exceeds Github's limit of 25MB and is therefore uploaded to Google Drive. <br>
 Link: https://drive.google.com/file/d/1-cyNz1VlUhyQBLmF3OYLfd7JR4tTESkR/view?usp=sharing
