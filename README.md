@@ -1,5 +1,7 @@
 # orf-presentation
-Presentation used to give students a seminar on board game AIs at ORF 2020
+Presentation used to give students a seminar on board game AIs at ORF 2020.
+
+Based on my implementation of an AI for the board game Lines of Action (private repo) on https://github.com/johnlee-jh/Private-Projects.
 
 ## Summary
 Used Chess as an example to introduce 76 students (Grade 6~12) on board game AI basics.
